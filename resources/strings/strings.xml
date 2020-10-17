@@ -1,0 +1,31 @@
+<strings>
+
+    <string id="AppName">AlejacmaW2</string>
+
+	<!-- Settings: Titles -->
+    <string id="TitleColorBackground">Color > Background</string>
+    <string id="TitleColorMain">Color > Main</string>
+    <string id="TitleColorStepsGoal">Color > Steps Goal</string>
+    <string id="TitleColorMoveBarActive">Color > Move Bar Active</string>
+    <string id="TitleColorMoveBarInactive">Color > Move Bar Inactive</string>
+
+    <!-- Settings: Color names -->
+    <string id="ColorWhite">White</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorBlack">Black</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorDarkRed">Dark Red</string>
+    <string id="ColorOrange">Orange</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorDarkGreen">Dark Green</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorDarkBlue">Dark Blue</string>
+    <string id="ColorPurple">Purple</string>
+    <string id="ColorPink">Pink</string> 
+    
+    <!--  On-screen text: Titles -->
+    <string id="TitleHeartRate">HR</string>
+    
+</strings>

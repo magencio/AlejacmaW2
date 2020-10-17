@@ -1,0 +1,31 @@
+<strings>
+
+    <string id="AppName">AlejacmaW2</string>
+
+	<!-- Settings: Titles -->
+    <string id="TitleColorBackground">Color > Fondo</string>
+    <string id="TitleColorMain">Color > Principal</string>
+    <string id="TitleColorStepsGoal">Color > Objetivo de Pasos</string>
+    <string id="TitleColorMoveBarActive">Color > Barra de Movimiento Activa</string>
+    <string id="TitleColorMoveBarInactive">Color > Barra de Movimiento Inactiva</string>
+
+    <!-- Settings: Color names -->
+    <string id="ColorWhite">Blanco</string>
+    <string id="ColorLightGray">Gris Claro</string>
+    <string id="ColorDarkGray">Gris Oscuro</string>
+    <string id="ColorBlack">Negro</string>
+    <string id="ColorRed">Rojo</string>
+    <string id="ColorDarkRed">Rojo Oscuro</string>
+    <string id="ColorOrange">Naranja</string>
+    <string id="ColorYellow">Amarillo</string>
+    <string id="ColorGreen">Verde</string>
+    <string id="ColorDarkGreen">Verde Oscuro</string>
+    <string id="ColorBlue">Azul</string>
+    <string id="ColorDarkBlue">Azul Oscuro</string>
+    <string id="ColorPurple">Purpura</string>
+    <string id="ColorPink">Rosa</string>    
+
+    <!--  On-screen text: Titles -->
+    <string id="TitleHeartRate">FC</string>
+        
+</strings>

@@ -1,0 +1,9 @@
+<properties>
+
+    <property id="ColorBackground" type="number">0x000000</property>
+    <property id="ColorMain" type="number">0xFFFFFF</property>
+    <property id="ColorStepsGoal" type="number">0xFF5500</property>
+    <property id="ColorMoveBarActive" type="number">0xFFAA00</property>
+    <property id="ColorMoveBarInactive" type="number">0xAAAAAA</property>
+
+</properties>

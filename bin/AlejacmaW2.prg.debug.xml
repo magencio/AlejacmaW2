@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Garmin\AlejacmaW2\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="4" lineNum="11" pc="268435498" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="4" lineNum="12" pc="268435502" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="4" lineNum="13" pc="268435516" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="5" lineNum="16" pc="268435531" symbol="drawBackground"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="5" lineNum="17" pc="268435535" symbol="drawBackground"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="5" lineNum="18" pc="268435571" symbol="drawBackground"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="6" lineNum="21" pc="268435584" symbol="drawActivityBackground"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="6" lineNum="22" pc="268435588" symbol="drawActivityBackground"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="6" lineNum="23" pc="268435624" symbol="drawActivityBackground"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Background.mc" id="6" lineNum="30" pc="268435816" symbol="drawActivityBackground"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="8" pc="268436035" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="9" pc="268436047" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="10" pc="268436071" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="11" pc="268436095" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="12" pc="268436119" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="13" pc="268436143" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="14" pc="268436167" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="15" pc="268436191" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="16" pc="268436215" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="17" pc="268436239" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Resources.mc" id="7" lineNum="18" pc="268436263" symbol="loadResources"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="9" lineNum="6" pc="268436311" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="9" lineNum="7" pc="268436315" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="10" lineNum="10" pc="268436353" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="10" lineNum="11" pc="268436357" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="10" lineNum="12" pc="268436371" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="11" lineNum="15" pc="268436386" symbol="drawIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="11" lineNum="16" pc="268436390" symbol="drawIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="11" lineNum="18" pc="268436404" symbol="drawIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="11" lineNum="19" pc="268436442" symbol="drawIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="12" lineNum="36" pc="268437105" symbol="drawBattery"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="12" lineNum="37" pc="268437109" symbol="drawBattery"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="12" lineNum="39" pc="268437123" symbol="drawBattery"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="12" lineNum="40" pc="268437146" symbol="drawBattery"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="12" lineNum="42" pc="268437164" symbol="drawBattery"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Battery.mc" id="12" lineNum="43" pc="268437202" symbol="drawBattery"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="14" lineNum="8" pc="268437247" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="14" lineNum="9" pc="268437251" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="14" lineNum="11" pc="268437288" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="14" lineNum="12" pc="268437301" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="15" lineNum="15" pc="268437315" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="15" lineNum="16" pc="268437319" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="15" lineNum="17" pc="268437342" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="15" lineNum="19" pc="268437382" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="15" lineNum="20" pc="268437400" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="16" lineNum="23" pc="268437417" symbol="drawNotificationCount"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="16" lineNum="24" pc="268437421" symbol="drawNotificationCount"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="16" lineNum="26" pc="268437441" symbol="drawNotificationCount"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="16" lineNum="27" pc="268437464" symbol="drawNotificationCount"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="16" lineNum="29" pc="268437482" symbol="drawNotificationCount"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="16" lineNum="30" pc="268437510" symbol="drawNotificationCount"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="33" pc="268437555" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="34" pc="268437559" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="36" pc="268437591" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="37" pc="268437619" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="50" pc="268438119" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="51" pc="268438136" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="52" pc="268438174" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="53" pc="268438202" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Notifications.mc" id="17" lineNum="54" pc="268438230" symbol="drawNotificationIcon"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Settings.mc" id="18" lineNum="9" pc="268438259" symbol="updateSettings"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Settings.mc" id="18" lineNum="10" pc="268438271" symbol="updateSettings"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Settings.mc" id="18" lineNum="11" pc="268438312" symbol="updateSettings"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Settings.mc" id="18" lineNum="12" pc="268438353" symbol="updateSettings"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Settings.mc" id="18" lineNum="13" pc="268438394" symbol="updateSettings"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Settings.mc" id="18" lineNum="14" pc="268438435" symbol="updateSettings"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="20" lineNum="6" pc="268438477" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="20" lineNum="7" pc="268438481" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="21" lineNum="11" pc="268438500" symbol="onStart"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="21" lineNum="12" pc="268438504" symbol="onStart"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="22" lineNum="16" pc="268438521" symbol="onStop"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="23" lineNum="20" pc="268438526" symbol="getInitialView"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="23" lineNum="21" pc="268438530" symbol="getInitialView"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="24" lineNum="25" pc="268438568" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="24" lineNum="26" pc="268438572" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2App.mc" id="24" lineNum="27" pc="268438588" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="26" lineNum="9" pc="268438605" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="26" lineNum="10" pc="268438609" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="26" lineNum="12" pc="268438646" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="27" lineNum="15" pc="268438660" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="27" lineNum="16" pc="268438664" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="27" lineNum="17" pc="268438678" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="28" lineNum="20" pc="268438693" symbol="drawTitle"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="28" lineNum="21" pc="268438697" symbol="drawTitle"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="28" lineNum="23" pc="268438720" symbol="drawTitle"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="28" lineNum="25" pc="268438757" symbol="drawTitle"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="28" lineNum="26" pc="268438795" symbol="drawTitle"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="28" lineNum="28" pc="268438839" symbol="drawTitle"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="31" pc="268438900" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="32" pc="268438904" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="34" pc="268438934" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="35" pc="268438957" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="36" pc="268438964" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="38" pc="268438979" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="39" pc="268439003" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="40" pc="268439010" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="41" pc="268439023" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="42" pc="268439047" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="48" pc="268439069" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="50" pc="268439102" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\HeartRate.mc" id="29" lineNum="51" pc="268439140" symbol="drawHeartRate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="31" lineNum="5" pc="268439185" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="31" lineNum="6" pc="268439189" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="32" lineNum="9" pc="268439227" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="32" lineNum="10" pc="268439231" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="32" lineNum="12" pc="268439245" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="32" lineNum="13" pc="268439270" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="32" lineNum="15" pc="268439288" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="32" lineNum="16" pc="268439326" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="32" lineNum="17" pc="268439370" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Steps.mc" id="32" lineNum="18" pc="268439397" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="34" lineNum="11" pc="268439467" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="34" lineNum="12" pc="268439471" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="34" lineNum="14" pc="268439508" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="35" lineNum="17" pc="268439522" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="35" lineNum="19" pc="268439526" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="35" lineNum="20" pc="268439540" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="35" lineNum="21" pc="268439554" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="24" pc="268439569" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="25" pc="268439573" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="27" pc="268439603" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="28" pc="268439620" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="30" pc="268439643" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="31" pc="268439653" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="32" pc="268439688" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="34" pc="268439756" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="35" pc="268439794" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="37" pc="268439838" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="38" pc="268439844" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="39" pc="268439876" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="36" lineNum="40" pc="268439903" symbol="drawTime"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="37" lineNum="44" pc="268439972" symbol="drawDate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="37" lineNum="45" pc="268439976" symbol="drawDate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="37" lineNum="47" pc="268439999" symbol="drawDate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="37" lineNum="48" pc="268440043" symbol="drawDate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="37" lineNum="50" pc="268440062" symbol="drawDate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="37" lineNum="51" pc="268440100" symbol="drawDate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="38" lineNum="54" pc="268440145" symbol="drawAlarm"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="38" lineNum="55" pc="268440149" symbol="drawAlarm"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="38" lineNum="57" pc="268440172" symbol="drawAlarm"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="38" lineNum="59" pc="268440231" symbol="drawAlarm"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\DateTime.mc" id="38" lineNum="60" pc="268440259" symbol="drawAlarm"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="40" lineNum="8" pc="268440314" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="40" lineNum="9" pc="268440318" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="12" pc="268440356" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="13" pc="268440360" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="15" pc="268440381" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="16" pc="268440404" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="17" pc="268440431" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="19" pc="268440460" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="20" pc="268440527" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="21" pc="268440537" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="22" pc="268440544" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="29" pc="268440724" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="30" pc="268440788" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="31" pc="268440798" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="32" pc="268440808" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="33" pc="268440818" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="40" pc="268440998" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="41" pc="268441062" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="42" pc="268441072" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="43" pc="268441082" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="44" pc="268441092" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="51" pc="268441272" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="52" pc="268441336" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="53" pc="268441346" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="54" pc="268441356" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="55" pc="268441366" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="62" pc="268441546" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="63" pc="268441610" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="64" pc="268441614" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="65" pc="268441624" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\MoveBarLevel.mc" id="41" lineNum="66" pc="268441634" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="4" pc="268444578" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="5" pc="268444607" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="8" pc="268444629" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="9" pc="268444651" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="10" pc="268444673" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="11" pc="268444695" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="12" pc="268444717" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="13" pc="268444739" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="14" pc="268444761" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\globals\\Consts.mc" id="41" lineNum="15" pc="268444783" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="43" lineNum="8" pc="268441815" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="43" lineNum="9" pc="268441819" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="43" lineNum="11" pc="268441856" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="43" lineNum="12" pc="268441869" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="44" lineNum="15" pc="268441883" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="44" lineNum="16" pc="268441887" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="44" lineNum="17" pc="268441901" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="44" lineNum="18" pc="268441915" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="44" lineNum="19" pc="268441929" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="45" lineNum="22" pc="268441944" symbol="drawPhoneConnected"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="45" lineNum="23" pc="268441948" symbol="drawPhoneConnected"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="45" lineNum="25" pc="268441968" symbol="drawPhoneConnected"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="45" lineNum="27" pc="268441991" symbol="drawPhoneConnected"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="45" lineNum="28" pc="268442049" symbol="drawPhoneConnected"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="46" lineNum="31" pc="268442104" symbol="drawBluetoothEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="46" lineNum="32" pc="268442108" symbol="drawBluetoothEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="46" lineNum="34" pc="268442134" symbol="drawBluetoothEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="46" lineNum="35" pc="268442163" symbol="drawBluetoothEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="46" lineNum="37" pc="268442196" symbol="drawBluetoothEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="46" lineNum="38" pc="268442254" symbol="drawBluetoothEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="47" lineNum="41" pc="268442309" symbol="drawWifiEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="47" lineNum="42" pc="268442313" symbol="drawWifiEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="47" lineNum="44" pc="268442339" symbol="drawWifiEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="47" lineNum="45" pc="268442368" symbol="drawWifiEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="47" lineNum="47" pc="268442401" symbol="drawWifiEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="47" lineNum="48" pc="268442459" symbol="drawWifiEnabled"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="48" lineNum="51" pc="268442514" symbol="drawDoNotDisturb"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="48" lineNum="52" pc="268442518" symbol="drawDoNotDisturb"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="48" lineNum="54" pc="268442544" symbol="drawDoNotDisturb"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="48" lineNum="56" pc="268442567" symbol="drawDoNotDisturb"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\Connections.mc" id="48" lineNum="57" pc="268442626" symbol="drawDoNotDisturb"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="50" lineNum="9" pc="268442681" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="50" lineNum="10" pc="268442685" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="51" lineNum="14" pc="268442704" symbol="onLayout"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="51" lineNum="15" pc="268442708" symbol="onLayout"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="52" lineNum="21" pc="268442746" symbol="onShow"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="52" lineNum="22" pc="268442750" symbol="onShow"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="53" lineNum="26" pc="268442767" symbol="onUpdate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="53" lineNum="27" pc="268442771" symbol="onUpdate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="53" lineNum="28" pc="268442782" symbol="onUpdate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="53" lineNum="32" pc="268442799" symbol="onUpdate"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="54" lineNum="38" pc="268442820" symbol="onHide"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="55" lineNum="42" pc="268442825" symbol="onExitSleep"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\AlejacmaW2View.mc" id="56" lineNum="46" pc="268442830" symbol="onEnterSleep"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="58" lineNum="16" pc="268442835" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="58" lineNum="17" pc="268442839" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="58" lineNum="19" pc="268442876" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="58" lineNum="20" pc="268442889" symbol="initialize"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="59" lineNum="23" pc="268442903" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="59" lineNum="24" pc="268442907" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="59" lineNum="25" pc="268442920" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="59" lineNum="26" pc="268442936" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="59" lineNum="27" pc="268442952" symbol="draw"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="30" pc="268442967" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="32" pc="268442971" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="33" pc="268442988" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="35" pc="268443005" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="37" pc="268443012" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="38" pc="268443019" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="39" pc="268443043" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="40" pc="268443059" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="41" pc="268443094" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="46" pc="268443148" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="47" pc="268443177" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="60" lineNum="48" pc="268443206" symbol="getTopSteps"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="51" pc="268443210" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="52" pc="268443214" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="54" pc="268443234" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="57" pc="268443251" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="58" pc="268443289" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="59" pc="268443311" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="62" pc="268443361" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="63" pc="268443399" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="61" lineNum="64" pc="268443421" symbol="drawTodayBar"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="67" pc="268443466" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="68" pc="268443470" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="70" pc="268443508" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="71" pc="268443525" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="72" pc="268443532" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="75" pc="268443536" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="76" pc="268443552" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="78" pc="268443587" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="79" pc="268443604" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="80" pc="268443623" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="81" pc="268443633" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="84" pc="268443649" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="85" pc="268443687" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="86" pc="268443712" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="89" pc="268443762" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="90" pc="268443800" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="62" lineNum="91" pc="268443825" symbol="drawHistoryBars"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="63" lineNum="97" pc="268443911" symbol="drawDays"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="63" lineNum="98" pc="268443915" symbol="drawDays"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="63" lineNum="100" pc="268443965" symbol="drawDays"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="63" lineNum="102" pc="268443982" symbol="drawDays"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="63" lineNum="104" pc="268444020" symbol="drawDays"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="63" lineNum="106" pc="268444045" symbol="drawDays"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="63" lineNum="107" pc="268444092" symbol="drawDays"/>
+        <entry filename="C:\\Garmin\\AlejacmaW2\\source\\drawables\\StepsHistory.mc" id="63" lineNum="109" pc="268444123" symbol="drawDays"/>
+        <entry filename="Rez" id="69" lineNum="16" pc="268444223" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="19" pc="268444235" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="20" pc="268444259" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="21" pc="268444283" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="22" pc="268444307" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="23" pc="268444331" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="24" pc="268444355" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="25" pc="268444379" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="26" pc="268444403" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="27" pc="268444427" symbol="WatchFace"/>
+        <entry filename="Rez" id="69" lineNum="29" pc="268444451" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="67" symbol="TitleColorMoveBarInactive"/>
+        <entry id="89" method="true" symbol="drawHeartRate"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="59" symbol="TitleColorBackground"/>
+        <entry id="86" method="true" symbol="drawDays"/>
+        <entry field="true" id="55" symbol="TitleColorMoveBarActive"/>
+        <entry id="84" method="true" symbol="drawTodayBar"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="91" method="true" symbol="drawDate"/>
+        <entry field="true" id="68" symbol="ColorPurple"/>
+        <entry field="true" id="36" symbol="ICON_BLUETOOTH"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="9" symbol="fontXTiny"/>
+        <entry id="8390740" method="true" symbol="drawTitle"/>
+        <entry id="30" object="true" symbol="Steps"/>
+        <entry field="true" id="72" symbol="ColorGreen"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="61" symbol="ColorYellow"/>
+        <entry field="true" id="82" symbol="PADDING"/>
+        <entry field="true" id="65" symbol="ColorRed"/>
+        <entry id="43" object="true" symbol="Connections"/>
+        <entry field="true" id="34" symbol="SCREEN_WIDTH"/>
+        <entry field="true" id="41" symbol="ICON_STEPS"/>
+        <entry field="true" id="54" symbol="ColorDarkRed"/>
+        <entry field="true" id="10" symbol="fontTiny"/>
+        <entry field="true" id="14" symbol="fontNumberMild"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="23" symbol="colorMain"/>
+        <entry field="true" id="39" symbol="ICON_PEOPLE"/>
+        <entry field="true" id="38" symbol="ICON_HEART"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="29" object="true" symbol="HeartRate"/>
+        <entry field="true" id="53" symbol="ColorBlue"/>
+        <entry id="90" method="true" symbol="drawTime"/>
+        <entry field="true" id="62" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="60" symbol="ColorOrange"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="33" symbol="SCREEN_HEIGHT"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="17" symbol="fontNumberThaiHot"/>
+        <entry id="88" method="true" symbol="drawNotificationIcon"/>
+        <entry field="true" id="15" symbol="fontNumberMedium"/>
+        <entry id="45" object="true" symbol="StepsHistory"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="49" module="true" symbol="Menus"/>
+        <entry field="true" id="56" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="76" method="true" symbol="drawBluetoothEnabled"/>
+        <entry field="true" id="26" symbol="colorMoveBarInactive"/>
+        <entry id="47" method="true" symbol="drawBattery"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="18" symbol="fontIcons"/>
+        <entry id="32" object="true" symbol="MoveBarLevel"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="12" symbol="fontMedium"/>
+        <entry field="true" id="25" symbol="colorMoveBarActive"/>
+        <entry field="true" id="71" symbol="TitleColorMain"/>
+        <entry id="27" method="true" symbol="updateSettings"/>
+        <entry field="true" id="74" symbol="_y"/>
+        <entry field="true" id="73" symbol="_x"/>
+        <entry field="true" id="70" symbol="ColorWhite"/>
+        <entry field="true" id="57" symbol="ColorDarkBlue"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="85" method="true" symbol="drawHistoryBars"/>
+        <entry field="true" id="58" symbol="ColorBlack"/>
+        <entry id="46" method="true" symbol="drawIcon"/>
+        <entry field="true" id="16" symbol="fontNumberHot"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="19" method="true" symbol="loadResources"/>
+        <entry id="94" method="true" symbol="drawActivityBackground"/>
+        <entry id="75" method="true" symbol="drawPhoneConnected"/>
+        <entry field="true" id="81" symbol="BAR_WIDTH"/>
+        <entry field="true" id="80" symbol="BAR_HEIGHT"/>
+        <entry id="77" method="true" symbol="drawWifiEnabled"/>
+        <entry id="93" method="true" symbol="drawBackground"/>
+        <entry field="true" id="42" symbol="ICON_WIFI"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry field="true" id="35" symbol="ICON_ALARM"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="31" object="true" symbol="DateTime"/>
+        <entry id="44" object="true" symbol="AlejacmaW2View"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="79" symbol="MAX_BARS"/>
+        <entry id="87" method="true" symbol="drawNotificationCount"/>
+        <entry field="true" id="64" symbol="TitleColorStepsGoal"/>
+        <entry id="83" method="true" symbol="getTopSteps"/>
+        <entry id="28" object="true" symbol="AlejacmaW2App"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="51" symbol="IconsFont"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="50" symbol="LauncherIcon"/>
+        <entry field="true" id="13" symbol="fontLarge"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="63" symbol="ColorDarkGreen"/>
+        <entry id="8390485" symbol="bluetooth"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="20" object="true" symbol="Battery"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="37" symbol="ICON_CALORIES"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="11" symbol="fontSmall"/>
+        <entry field="true" id="40" symbol="ICON_PHONE"/>
+        <entry field="true" id="52" symbol="ColorLightGray"/>
+        <entry id="8391701" method="true" symbol="setAntiAlias"/>
+        <entry field="true" id="66" symbol="TitleHeartRate"/>
+        <entry id="78" method="true" symbol="drawDoNotDisturb"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="69" symbol="ColorPink"/>
+        <entry id="92" method="true" symbol="drawAlarm"/>
+        <entry id="48" module="true" symbol="Layouts"/>
+        <entry id="8389701" object="true" symbol="HeartRateIterator"/>
+        <entry id="21" object="true" symbol="Notifications"/>
+        <entry field="true" id="22" symbol="colorBackground"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8390484" symbol="wifi"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="24" symbol="colorStepsGoal"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435531" name="dc" stackId="1" startPc="268435498"/>
+        <entry arg="true" endPc="268435584" name="dc" stackId="1" startPc="268435531"/>
+        <entry arg="true" endPc="268436035" name="dc" stackId="1" startPc="268435584"/>
+        <entry arg="true" endPc="268436386" name="dc" stackId="1" startPc="268436353"/>
+        <entry endPc="268437104" name="x" stackId="2" startPc="268436390"/>
+        <entry endPc="268437104" name="y" stackId="3" startPc="268436390"/>
+        <entry arg="true" endPc="268437105" name="dc" stackId="1" startPc="268436386"/>
+        <entry endPc="268437246" name="battery" stackId="4" startPc="268437109"/>
+        <entry endPc="268437246" name="x" stackId="2" startPc="268437109"/>
+        <entry endPc="268437246" name="y" stackId="3" startPc="268437109"/>
+        <entry arg="true" endPc="268437247" name="dc" stackId="1" startPc="268437105"/>
+        <entry endPc="268437416" name="color" stackId="3" startPc="268437319"/>
+        <entry endPc="268437416" name="notifications" stackId="2" startPc="268437319"/>
+        <entry arg="true" endPc="268437417" name="dc" stackId="1" startPc="268437315"/>
+        <entry endPc="268437554" name="x" stackId="4" startPc="268437421"/>
+        <entry endPc="268437554" name="y" stackId="5" startPc="268437421"/>
+        <entry arg="true" endPc="268437555" name="dc" stackId="1" startPc="268437417"/>
+        <entry arg="true" endPc="268437555" name="color" stackId="3" startPc="268437417"/>
+        <entry arg="true" endPc="268437555" name="notifications" stackId="2" startPc="268437417"/>
+        <entry endPc="268438258" name="x" stackId="3" startPc="268437559"/>
+        <entry endPc="268438258" name="y" stackId="4" startPc="268437559"/>
+        <entry arg="true" endPc="268438259" name="dc" stackId="1" startPc="268437555"/>
+        <entry arg="true" endPc="268438259" name="color" stackId="2" startPc="268437555"/>
+        <entry arg="true" endPc="268438521" name="state" stackId="1" startPc="268438500"/>
+        <entry arg="true" endPc="268438526" name="state" stackId="1" startPc="268438521"/>
+        <entry arg="true" endPc="268438693" name="dc" stackId="1" startPc="268438660"/>
+        <entry endPc="268438899" name="x" stackId="2" startPc="268438697"/>
+        <entry endPc="268438899" name="title" stackId="4" startPc="268438697"/>
+        <entry endPc="268438899" name="y" stackId="3" startPc="268438697"/>
+        <entry arg="true" endPc="268438900" name="dc" stackId="1" startPc="268438693"/>
+        <entry endPc="268439060" name="sample" stackId="6" startPc="268439010"/>
+        <entry endPc="268439063" name="iterator" stackId="5" startPc="268438979"/>
+        <entry endPc="268439184" name="x" stackId="2" startPc="268438904"/>
+        <entry endPc="268439184" name="heartRate" stackId="4" startPc="268438904"/>
+        <entry endPc="268439184" name="y" stackId="3" startPc="268438904"/>
+        <entry arg="true" endPc="268439185" name="dc" stackId="1" startPc="268438900"/>
+        <entry endPc="268439466" name="x" stackId="2" startPc="268439231"/>
+        <entry endPc="268439466" name="steps" stackId="4" startPc="268439231"/>
+        <entry endPc="268439466" name="textWidth" stackId="5" startPc="268439231"/>
+        <entry endPc="268439466" name="y" stackId="3" startPc="268439231"/>
+        <entry arg="true" endPc="268439467" name="dc" stackId="1" startPc="268439227"/>
+        <entry arg="true" endPc="268439569" name="dc" stackId="1" startPc="268439522"/>
+        <entry endPc="268439968" name="timeWidth" stackId="9" startPc="268439844"/>
+        <entry endPc="268439968" name="text" stackId="8" startPc="268439844"/>
+        <entry endPc="268439971" name="x" stackId="2" startPc="268439573"/>
+        <entry endPc="268439971" name="hours" stackId="6" startPc="268439573"/>
+        <entry endPc="268439971" name="is24Hour" stackId="5" startPc="268439573"/>
+        <entry endPc="268439971" name="clockTime" stackId="4" startPc="268439573"/>
+        <entry endPc="268439971" name="time" stackId="7" startPc="268439573"/>
+        <entry endPc="268439971" name="y" stackId="3" startPc="268439573"/>
+        <entry arg="true" endPc="268439972" name="dc" stackId="1" startPc="268439569"/>
+        <entry endPc="268440144" name="x" stackId="2" startPc="268439976"/>
+        <entry endPc="268440144" name="day" stackId="5" startPc="268439976"/>
+        <entry endPc="268440144" name="date" stackId="4" startPc="268439976"/>
+        <entry endPc="268440144" name="y" stackId="3" startPc="268439976"/>
+        <entry arg="true" endPc="268440145" name="dc" stackId="1" startPc="268439972"/>
+        <entry endPc="268440313" name="x" stackId="2" startPc="268440149"/>
+        <entry endPc="268440313" name="color" stackId="4" startPc="268440149"/>
+        <entry endPc="268440313" name="y" stackId="3" startPc="268440149"/>
+        <entry arg="true" endPc="268440314" name="dc" stackId="1" startPc="268440145"/>
+        <entry endPc="268441814" name="height" stackId="8" startPc="268440360"/>
+        <entry endPc="268441814" name="x" stackId="2" startPc="268440360"/>
+        <entry endPc="268441814" name="moveReference" stackId="6" startPc="268440360"/>
+        <entry endPc="268441814" name="barX" stackId="7" startPc="268440360"/>
+        <entry endPc="268441814" name="padding" stackId="4" startPc="268440360"/>
+        <entry endPc="268441814" name="moveBarLevel" stackId="5" startPc="268440360"/>
+        <entry endPc="268441814" name="y" stackId="3" startPc="268440360"/>
+        <entry arg="true" endPc="268441815" name="dc" stackId="1" startPc="268440356"/>
+        <entry arg="true" endPc="268441944" name="dc" stackId="1" startPc="268441883"/>
+        <entry endPc="268442103" name="x" stackId="2" startPc="268441948"/>
+        <entry endPc="268442103" name="phoneConnected" stackId="4" startPc="268441948"/>
+        <entry endPc="268442103" name="y" stackId="3" startPc="268441948"/>
+        <entry arg="true" endPc="268442104" name="dc" stackId="1" startPc="268441944"/>
+        <entry endPc="268442308" name="x" stackId="2" startPc="268442108"/>
+        <entry endPc="268442308" name="bluetooth" stackId="4" startPc="268442108"/>
+        <entry endPc="268442308" name="bluetoothConnected" stackId="5" startPc="268442108"/>
+        <entry endPc="268442308" name="y" stackId="3" startPc="268442108"/>
+        <entry arg="true" endPc="268442309" name="dc" stackId="1" startPc="268442104"/>
+        <entry endPc="268442513" name="x" stackId="2" startPc="268442313"/>
+        <entry endPc="268442513" name="wifiConnected" stackId="5" startPc="268442313"/>
+        <entry endPc="268442513" name="wifi" stackId="4" startPc="268442313"/>
+        <entry endPc="268442513" name="y" stackId="3" startPc="268442313"/>
+        <entry arg="true" endPc="268442514" name="dc" stackId="1" startPc="268442309"/>
+        <entry endPc="268442680" name="x" stackId="2" startPc="268442518"/>
+        <entry endPc="268442680" name="doNotDisturb" stackId="4" startPc="268442518"/>
+        <entry endPc="268442680" name="y" stackId="3" startPc="268442518"/>
+        <entry arg="true" endPc="268442681" name="dc" stackId="1" startPc="268442514"/>
+        <entry arg="true" endPc="268442746" name="dc" stackId="1" startPc="268442704"/>
+        <entry arg="true" endPc="268442820" name="dc" stackId="1" startPc="268442767"/>
+        <entry endPc="268442966" name="topSteps" stackId="2" startPc="268442907"/>
+        <entry arg="true" endPc="268442967" name="dc" stackId="1" startPc="268442903"/>
+        <entry endPc="268443145" name="i" stackId="4" startPc="268443043"/>
+        <entry endPc="268443209" name="topSteps" stackId="3" startPc="268442971"/>
+        <entry endPc="268443209" name="activity" stackId="2" startPc="268442971"/>
+        <entry endPc="268443209" name="history" stackId="1" startPc="268442971"/>
+        <entry endPc="268443465" name="goalHeight" stackId="6" startPc="268443214"/>
+        <entry endPc="268443465" name="x" stackId="3" startPc="268443214"/>
+        <entry endPc="268443465" name="stepHeight" stackId="7" startPc="268443214"/>
+        <entry endPc="268443465" name="activity" stackId="5" startPc="268443214"/>
+        <entry endPc="268443465" name="y" stackId="4" startPc="268443214"/>
+        <entry arg="true" endPc="268443466" name="dc" stackId="1" startPc="268443210"/>
+        <entry arg="true" endPc="268443466" name="topSteps" stackId="2" startPc="268443210"/>
+        <entry endPc="268443869" name="goalHeight" stackId="9" startPc="268443649"/>
+        <entry endPc="268443869" name="stepHeight" stackId="10" startPc="268443649"/>
+        <entry endPc="268443910" name="i" stackId="7" startPc="268443623"/>
+        <entry endPc="268443910" name="barX" stackId="8" startPc="268443623"/>
+        <entry endPc="268443910" name="x" stackId="3" startPc="268443470"/>
+        <entry endPc="268443910" name="size" stackId="6" startPc="268443470"/>
+        <entry endPc="268443910" name="history" stackId="5" startPc="268443470"/>
+        <entry endPc="268443910" name="y" stackId="4" startPc="268443470"/>
+        <entry arg="true" endPc="268443911" name="dc" stackId="1" startPc="268443466"/>
+        <entry arg="true" endPc="268443911" name="topSteps" stackId="2" startPc="268443466"/>
+        <entry endPc="268444187" name="date" stackId="8" startPc="268444045"/>
+        <entry endPc="268444187" name="time" stackId="7" startPc="268444045"/>
+        <entry endPc="268444222" name="textX" stackId="6" startPc="268444045"/>
+        <entry endPc="268444222" name="i" stackId="5" startPc="268444045"/>
+        <entry endPc="268444222" name="x" stackId="2" startPc="268443915"/>
+        <entry endPc="268444222" name="now" stackId="4" startPc="268443915"/>
+        <entry endPc="268444222" name="y" stackId="3" startPc="268443915"/>
+        <entry arg="true" endPc="268444223" name="dc" stackId="1" startPc="268443911"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_10348573946369573362" stackId="7" startPc="268444235"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_14818132431887339549" stackId="10" startPc="268444235"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_68700503620949154936" stackId="4" startPc="268444235"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_82168775017106910094" stackId="6" startPc="268444235"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_14911850211900736396" stackId="9" startPc="268444235"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_13125680214488047341" stackId="5" startPc="268444235"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_18846580931280954200" stackId="2" startPc="268444235"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_18422261171110148198" stackId="3" startPc="268444235"/>
+        <entry endPc="268444548" name="rez_cmp_local_custom_drawable_21132734269091690321" stackId="8" startPc="268444235"/>
+        <entry arg="true" endPc="268444549" name="dc" stackId="1" startPc="268444223"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="438" parentId="globals" symbolId="Battery" type="class"/>
+        <dataEntry offset="509" parentId="globals" symbolId="AlejacmaW2App" type="class"/>
+        <dataEntry offset="588" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="667" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="706" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="737" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="776" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="815" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="846" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1045" parentId="globals" symbolId="AlejacmaW2View" type="class"/>
+        <dataEntry offset="1140" parentId="globals" symbolId="Connections" type="class"/>
+        <dataEntry offset="1243" parentId="globals" symbolId="StepsHistory" type="class"/>
+        <dataEntry offset="1378" parentId="globals" symbolId="Steps" type="class"/>
+        <dataEntry offset="1433" parentId="globals" symbolId="Notifications" type="class"/>
+        <dataEntry offset="1520" parentId="globals" symbolId="HeartRate" type="class"/>
+        <dataEntry offset="1599" parentId="globals" symbolId="DateTime" type="class"/>
+        <dataEntry offset="1686" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="1757" parentId="globals" symbolId="MoveBarLevel" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBackground" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawActivityBackground" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="loadResources">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Battery">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Battery">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawIcon" parent="Battery">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBattery" parent="Battery">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Notifications">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Notifications">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawNotificationCount" parent="Notifications">
+            <param id="dc"/>
+            <param id="notifications"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawNotificationIcon" parent="Notifications">
+            <param id="dc"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateSettings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AlejacmaW2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AlejacmaW2App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AlejacmaW2App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AlejacmaW2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="AlejacmaW2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="HeartRate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="HeartRate">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTitle" parent="HeartRate">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHeartRate" parent="HeartRate">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Steps">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Steps">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DateTime">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="DateTime">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTime" parent="DateTime">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDate" parent="DateTime">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawAlarm" parent="DateTime">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MoveBarLevel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="MoveBarLevel">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Connections">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Connections">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawPhoneConnected" parent="Connections">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBluetoothEnabled" parent="Connections">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawWifiEnabled" parent="Connections">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDoNotDisturb" parent="Connections">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AlejacmaW2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AlejacmaW2View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="AlejacmaW2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AlejacmaW2View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="AlejacmaW2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="AlejacmaW2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="AlejacmaW2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="StepsHistory">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="StepsHistory">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTopSteps" parent="StepsHistory">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTodayBar" parent="StepsHistory">
+            <param id="dc"/>
+            <param id="topSteps"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHistoryBars" parent="StepsHistory">
+            <param id="dc"/>
+            <param id="topSteps"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDays" parent="StepsHistory">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

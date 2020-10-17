@@ -1,0 +1,11 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <drawable class="Battery" />
+    <drawable class="Steps" />
+    <drawable class="StepsHistory" />
+    <drawable class="DateTime"/>
+    <drawable class="HeartRate"/>
+    <drawable class="MoveBarLevel"/>
+    <drawable class="Connections"/>
+    <drawable class="Notifications"/>
+</layout>
